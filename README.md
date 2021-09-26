@@ -3,7 +3,7 @@
 ## 👇홈동 소개 및 시연 영상👇
 [<img src="https://user-images.githubusercontent.com/31542907/131515083-458cac93-16d0-463e-a18e-ec26156a15f3.png" width="250">](https://www.youtube.com/watch?v=_U6xNSv4kFM)
 
-홈동 시나리오는 👉[여기](https://github.com/yesfordev/homedong/blob/develop/%EC%8B%9C%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)👈에서 더 자세히 보실 수 있습니다.
+홈동 시나리오는 👉[여기](https://github.com/kimsm4524/homedong/blob/develop/exec/%EC%8B%9C%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)👈에서 더 자세히 보실 수 있습니다.
 
 ## ✨Overview
 1일 1커밋의 열풍이 불고 있는 여러분들의 건강은 괜찮으신가요? 모두의 건강을 책임지기 위해 저희 **HomeDong**이 왔습니다 ✌1일 1홈동(홈 트레이닝 운동)의 시작을 홈동과 함께하고 건강을 지켜보세요!
